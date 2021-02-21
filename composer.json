@@ -1,0 +1,14 @@
+{
+    "name": "premnath/slugify",
+    "description": "slug document for php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "premnath",
+            "email": "premdevapp@gmail.com"
+        }
+    ],
+    "require": {
+        "cocur/slugify": "^4.0"
+    }
+}
